@@ -10,7 +10,6 @@ Specify the number of times you want your message to be repeated in count.txt.
 Enjoy!
 
 -- If you want to contact me, message my Discord account: hyn.646
--- Made by hyn646
 
 A tutorial video for this:
 https://youtu.be/Q9WTsaXdQuU
