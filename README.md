@@ -12,4 +12,5 @@ Enjoy!
 -- If you want to contact me, message my Discord account: hyn.646
 -- Made by hyn646
 
-A tutorial video for this
+A tutorial video for this:
+https://youtu.be/Q9WTsaXdQuU
