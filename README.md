@@ -1,4 +1,4 @@
-# Discord-Message-Spammer
+# Discord Message Spammer v.1
 Welcome! This is my first Python application that I’ve published publicly.
 
 HOW TO USE:
